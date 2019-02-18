@@ -2,8 +2,14 @@ body {
 	background-color: white;
 }
 
-* {
-	font-family: 'Libre Baskerville', serif;
+h1 {
+	font-family: 'Sorts Mill Goudy', serif;  
+	font-style: italic;
+	font-size: 20pt 
+}
+p {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 11pt; 
 }
 
 label {
