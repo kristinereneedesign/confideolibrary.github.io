@@ -5,11 +5,13 @@ body {
 h1 {
 	font-family: 'Sorts Mill Goudy', serif;  
 	font-style: italic;
-	font-size: 20pt 
+	font-size: 20pt;
+	color: #8AC992
 }
 p {
 	font-family: 'Montserrat', sans-serif;
-	font-size: 11pt; 
+	font-size: 11pt;
+	color: #828181
 }
 
 label {
@@ -25,6 +27,7 @@ div.kristine {
 	background: url(../assets/logo_color_background_for_web-01.png) center no-repeat;
 	background-size: cover;
 	height: 300px;
+	margin-bottom: 30px
 }
 
 @media (min-width: 576px) {
